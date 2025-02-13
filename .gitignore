@@ -1,0 +1,8 @@
+cprx_auto.bat
+stock2_kosdaq.py
+stock_nasdaq_cprx.py
+rsi.py
+버림/
+__pycache__/
+프로그램 계획서.txt
+.env
